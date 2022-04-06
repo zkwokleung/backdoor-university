@@ -1,0 +1,93 @@
+[
+
+    {
+      "GPA": 3.0,
+      "others": 10000,
+      "IVE": 7000,
+      "SPACE": 5000,
+      "HKCC": 4000,
+      "Area" : "A1",
+      "course": "C1", "tag": "1"
+    },
+    {
+      "GPA": 3.1,
+      "others": 10000,
+      "IVE": 7000,
+      "SPACE": 5000,
+      "HKCC": 4000,
+      "Area" : "A2",
+      "course": "C2", "tag": "2"
+    },
+    {
+      "GPA": 3.2,
+      "others": 1489,
+      "IVE": 7000,
+      "SPACE": 5000,
+      "HKCC": 4000,
+      "Area" : "A3",
+      "course": "C3", "tag": "3"
+    },
+    {
+      "GPA": 3.3,
+      "others": 1489,
+      "IVE": 7000,
+      "SPACE": 5000,
+      "HKCC": 4000,
+      "Area" : "A1",
+      "course": "C4", "tag": "4"
+    },
+    {
+      "GPA": 3.4,
+      "others": 1489,
+      "IVE": 3500,
+      "SPACE": 3000,
+      "HKCC": 3000,
+      "Area" : "A2",
+      "course": "C5", "tag": "5"
+    },
+    {
+      "GPA": 3.5,
+      "others": 1489,
+      "IVE": 1500,
+      "SPACE": 1500,
+      "HKCC": 1500,
+      "Area" : "A3",
+      "course": "C6", "tag": "6"
+    },
+    {
+      "GPA": 3.6,
+      "others": 1000,
+      "IVE": 2000,
+      "SPACE": 1500,
+      "HKCC": 1000,
+      "Area" : "A1",
+      "course": "C7", "tag": "7"
+    },
+    {
+      "GPA": 3.7,
+      "others": 571,
+      "IVE": 500,
+      "SPACE": 400,
+      "HKCC": 300,
+      "Area" : "A2",
+      "course": "C8", "tag": "8"
+    },
+    {
+      "GPA": 3.8,
+      "others": 126.5,
+      "IVE": 300,
+      "SPACE": 200,
+      "HKCC": 200,
+      "Area" : "A3",
+      "course": "C9", "tag": "9"
+    },
+    {
+      "GPA": 3.9,
+      "others": 0,
+      "IVE": 200,
+      "SPACE": 150,
+      "HKCC": 100,
+      "Area" : "A1",
+      "course": "C10", "tag": "10"
+    }
+  ]
